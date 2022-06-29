@@ -738,7 +738,7 @@ try:
                     print(yildiz + " Firewall Tespiti bölümüne hoş geldiniz.")
                     print(yildiz + "Site linkini http://www.hedefsite.com/ şeklinde giriniz.")
                     link = input(yildiz + " Site Linki: ")
-                    os.system("wafw00f -a " + link)
+                    os.system("wafw00f -a -v " + link)
                     soru = input(soru_isareti + " Başka bir işlem yapmak ister misiniz? (e/h)")
                     if (soru == "e"):
                         continue
