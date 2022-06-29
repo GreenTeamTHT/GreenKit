@@ -33,6 +33,7 @@ os.system("sudo pip3 install proxybroker")
 os.system("sudo pip3 install cookiejar")
 os.system("sudo pip3 install termcolor")
 os.system("sudo pip3 install http")
+os.system("sudo pip install googlesearch-python")
 
 time.sleep(1)
 print("\033[1;31m[\033[1;33m*\033[1;31m]\033[1;32m Paketler indirildi.")
