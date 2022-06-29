@@ -6,7 +6,8 @@ Bulundurduğu Araçlar: nmap, wpscan, sqlmap, admin panel finder, nikto, assetfi
 
 Kullanımı:
 
-git clone link
+git clone https://github.com/GreenTeamTHT/GreenKit.git
 
 python3 install.py
+
 python3 Green_Kit.py
