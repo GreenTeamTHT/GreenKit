@@ -665,7 +665,7 @@ try:
                 while True:
                     print(yildiz + " Alt Alan Adı tespit bölümüne hoş geldiniz.")
                     hedef = input(yildiz + " Hedef Site (ör:google.com): ")
-                    os.system("assetfinder -subs-only " + hedef + " | tee subdomains.txt")
+                    os.system("assetfinder --subs-only " + hedef + " | tee subdomains.txt")
                     print(arti + " Tarama başarıyla tamamlandı.")
                     print(arti + " Sonuçlar subdomains.txt dosyasına kaydedildi.")
                     soru = input(soru_isareti + " Başka bir işlem yapmak ister misiniz? (e/h)")
