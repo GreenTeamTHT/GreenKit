@@ -179,7 +179,7 @@ try:
 
         elif (islem == "3"):
             print("""\033[0;31m[\033[0;33m*\033[0;31m]> \033[1;32mSQLi bölümüne hoş geldiniz.
-            \033[0;31m[\033[0;33m!\033[0;31m]> \033[1;32mDatabase çekme işlemlerinde tüm işlemleri 1'den başlayarak sırayla yapınız.
+\033[0;31m[\033[0;33m!\033[0;31m]> \033[1;32mDatabase çekme işlemlerinde tüm işlemleri 1'den başlayarak sırayla yapınız.
 \033[0;31m[\033[0;33m1\033[0;31m]> \033[0;32mDatabase Çek
 \033[0;31m[\033[0;33m2\033[0;31m]> \033[0;32mTablo Çek
 \033[0;31m[\033[0;33m3\033[0;31m]> \033[0;32mKolon Çek
