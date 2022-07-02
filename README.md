@@ -10,6 +10,8 @@ Bulundurduğu Araçlar: nmap, wpscan, sqlmap, admin panel finder, nikto, assetfi
 
 Kullanımı:
 
+sudo apt install python3-pip 
+
 git clone https://github.com/GreenTeamTHT/GreenKit.git
 
 python3 install.py
